@@ -13,7 +13,8 @@
 
 void putGreetings()
 {
-	puts("Hello git !")
+	puts("Hello git !");
+
 }
 int main(void) {
 	puts("!!!Hello Git!!!"); /* prints !!!Hello Git!!! */
