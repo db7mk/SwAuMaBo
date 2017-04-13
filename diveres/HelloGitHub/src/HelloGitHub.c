@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : HelloGitHub.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
@@ -13,5 +13,7 @@
 
 int main(void) {
 	puts("!!!Hello Git!!!"); /* prints !!!Hello Git!!! */
+	puts("!!!Hello Git 2!!!"); /* prints !!!Hello Git!!! */
+
 	return EXIT_SUCCESS;
 }
